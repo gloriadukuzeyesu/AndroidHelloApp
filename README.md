@@ -12,8 +12,11 @@ Here's a walk through of implementation features
 
 
 
-copyright [2022] Gloria Dukuzeyesu
+![](helloAppWalkThrough.gif)
 
+
+
+copyright [2022] Gloria Dukuzeyesu
 
 
 
